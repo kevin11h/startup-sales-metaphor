@@ -1,3 +1,3 @@
 # startup-sales-metaphor
 
-![](./mentor.png)
+![](./'mentor.png')
